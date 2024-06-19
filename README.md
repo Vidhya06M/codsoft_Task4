@@ -21,12 +21,8 @@ Surprise (for collaborative filtering)
 Steps
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/simple-recommendation-system.git
-cd simple-recommendation-system
-Create and activate a virtual environment:
-bash
-Copy code
+
+
 python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install the required packages:
